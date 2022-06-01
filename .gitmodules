@@ -1,0 +1,3 @@
+[submodule "sub/examples"]
+	path = sub/examples
+	url = https://github.com/helm/examples.git
